@@ -1,0 +1,40 @@
+Q1: How are you feeling today? tiered and i have a headache
+Q2: Do you want something upbeat or chill? nether
+Q3: Are you looking for lyrics that are deep, fun, or emotional? nether
+Q4: Do you prefer a male or female vocalist, or no preference? nether doiesn matter
+Q5: What genre are you in the mood for? (Pop, Rock, R&B, Hip-Hop, EDM, etc.) not sure
+Q6: Do you want a classic hit or something new? somtyhign newer
+Q7: Are you in the mood for a slow song or something fast-paced? mid
+Q8: Would you prefer a well-known song or a hidden gem? no -----THIS DONT MATTER BOT SHOULD RECOEMMEND
+Q9: Would you like a Spotify link to the recommended song? sure ---BOT SHOULD TELL ME THIS
+Q10: What’s a song you’ve enjoyed recently? (Optional) nofx
+
+--------------------------------------------------------------------------------
+
+ 1.dp npot jsut ask about persons feeling do not jsut ask about bands and music taste first?
+have the bot inindirectly  ask for the types of bands user has been listening to?
+
+
+based off those bands it should  analyzyze trhe bands given to determin the mood and energey level or sentment and intent of the user
+2. Build some repore with the user ask them how they are doing and whaty they are currently doign that makes them want to lsiten to music but in a conversaitonal huma way that is not lame or robitic
+ do not go striagt in to asking about persons mood or feeling uuntil affter you gather some keey data about the music the interact and lsiten to 
+
+3.
+it should ask the user if thats what they are still interested in listeneg to
+of thye have not ask about bands or last time they went to a concert?? builkd report 
+if so doi they want the same bands or new ones simular they havent herd
+if no then ask user list some songs or sounds that they have thew saound they are looking for?
+if they do not have any idea you should suggest some pl?????(WHAT ARE THESE NEW METHODS DEFINE THESE???)
+
+4
+YOIU MUST RECOEMND SPOITFY  and youtube SONGS, CHANNELS OR PLAYLIST 
+bot must determine first if user only wants to hear a song, ofr are they doing somthing like work, art, traveling, like what is the sisttuation that they need music for, are they depressed , doing somthign fun these are the thing the bot should disciover and we need prompts withb  the corerct questions the bot should ask????
+
+5.
+if user does nt know ir is being vauge it should ask aand name drop bands or artistbot can also name drop moveismovies or plays music was in?
+
+the bot if fails should try to recoemmned some songs based oin the data and recomend wreal URLs links to ether youtube or Spotify
+
+
+
+
