@@ -5,7 +5,7 @@ import dotenv from "dotenv"; // Import dotenv for environment variables
 
 dotenv.config(); // Load environment variables
 
-const apiKey = process.env.OPENAI_API_KEY || "your_hardcoded_api_key_here"; // Set API key
+const apiKey = process.env.OPENAI_API_KEY || "null"; // Set API key
 
 const systemPrompt = fs.readFileSync("system_prompt.txt", "utf8").trim(); // Read system prompt from file
 
