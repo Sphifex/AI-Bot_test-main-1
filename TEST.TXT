@@ -16,7 +16,7 @@ have the bot inindirectly  ask for the types of bands user has been listening to
 
 
 based off those bands it should  analyzyze trhe bands given to determin the mood and energey level or sentment and intent of the user
-2. Build some repore with the user ask them how they are doing and whaty they are currently doign that makes them want to lsiten to music but in a conversaitonal huma way that is not lame or robitic
+2. \ with the user ask them how they are doing and whaty they are currently doign that makes them want to lsiten to music but in a conversaitonal huma way that is not lame or robitic
  do not go striagt in to asking about persons mood or feeling uuntil affter you gather some keey data about the music the interact and lsiten to 
 
 3.
@@ -36,5 +36,26 @@ if user does nt know ir is being vauge it should ask aand name drop bands or art
 the bot if fails should try to recoemmned some songs based oin the data and recomend wreal URLs links to ether youtube or Spotify
 
 
+
+
+
+notes 1.Fix prompt to deliver the other 5 things I added.
+
+2.make a new branch in vs code terminal called rylees-test-bot --> push tp get hub ---> create a pull request so I can review your code.
+
+3. wgo to my portfolio find 3 of the wordpress website jobs and apps we built and you need to write out your job which would consist of planning developing testing. maybe actually go to the sites and pretend that you built on your and in your own wqords describe what you did do 4 of these.
+
+4 on a seprate google doc ... write a 1 page reports on the bot project and prompting I want to know what you know what code was used breifly eaxplin how it works and how the logic works, then explain the system prompt and how it works and if its rule based ort genertive?
+
+5. send me linked in and login stuff to your linked in
+
+6. send me your resumes with updates to the old one on a nice resume template nice template'
+
+
+7.watch intevwe viewdo for tech interviews YOUTUBE
+
+8. write out your greatest job acheiments so far?
+
+9. whaT IS YOUR GREATEST WEAKNESS
 
 
